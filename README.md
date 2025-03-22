@@ -1,6 +1,6 @@
 # API Testing Screenshot
 
-## addTodos endpoint testing 
+## addTodo endpoint testing 
 ![](Todo%20Endpoint%20Testing/createToDo.png)
 
 ## getAllTodos endpoint testing
