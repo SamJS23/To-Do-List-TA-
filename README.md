@@ -1,14 +1,14 @@
 # API Testing Screenshot
 
 ## addTodos endpoint testing 
-![](Todo%20endpoint%20testing/createToDo.png)
+![](Todo%20Endpoint%20Testing/createToDo.png)
 
 ## getAllTodos endpoint testing
-![](Todo%20endpoint%20testing/getToDo.png)
+![](Todo%20Endpoint%20Testing/getToDo.png)
 
 ## updateTodo endpoint testing
-![](Todo%20endpoint%20testing/updateToDo.png)
+![](Todo%20Endpoint%20Testing/updateToDo.png)
 
 ## deleteTodo endpoint testing
-![](Todo%20endpoint%20testing/deleteToDo.png)
+![](Todo%20Endpoint%20Testing/deleteToDo.png)
 
